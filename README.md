@@ -39,11 +39,11 @@ The app takes a single natural-language task or request and fans it out into mul
 
 ## Why this is more than a single-prompt tool
 
-Each widget reasons over the same shared task context but is scoped to a distinct sub-problem — drafting a response, surfacing what's missing, estimating effort, and recommending resources — rather than cramming everything into one generic prompt. This mirrors how a real agentic system decomposes a broad goal into coordinated sub-tasks, even though this specific implementation runs on PartyRock's widget model rather than custom orchestration code.
+Each widget reasons over the same shared task context but is scoped to a distinct sub-problem; drafting a response, surfacing what's missing, estimating effort, and recommending resources, rather than cramming everything into one generic prompt. This mirrors how a real agentic system decomposes a broad goal into coordinated sub-tasks, even though this specific implementation runs on PartyRock's widget model rather than custom orchestration code.
 
 ## Why I built this
 
-As an Agentic AI Product Leader, I wanted hands-on proof — not just strategy — that I can design and ship a working AI system end to end: scoping the problem, defining the interconnected components, and shipping something usable. This project reflects how I think about agentic workflows: breaking a broad task (executive support) into coordinated, purpose-built components rather than one generic prompt.
+As an Agentic AI Product Leader, I wanted hands-on proof, not just strategy, that I can design and ship a working AI system end to end: scoping the problem, defining the interconnected components, and shipping something usable. This project reflects how I think about agentic workflows: breaking a broad task (executive support) into coordinated, purpose-built components rather than one generic prompt.
 
 ## Tech
 
