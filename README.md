@@ -56,4 +56,3 @@ Built on **AWS PartyRock**, powered by foundation models via **Amazon Bedrock**.
 - [ ] Expand meeting-prep widget with automatic agenda generation from calendar context
 
 ---
-*Built by [Miracle Maduabuchi](https://www.linkedin.com/in/miracle-maduabuchi) — Agentic AI Product Leader, The Light Strategy Forge*
